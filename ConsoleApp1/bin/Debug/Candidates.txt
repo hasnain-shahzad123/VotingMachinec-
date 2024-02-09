@@ -1,0 +1,11 @@
+31,Nawaz,PMLN,3
+
+44,Shahbaz Shareed,TLP,1
+hareef,PMLN,0
+
+
+44,Shahbaz Shareed,TLP,0
+59,Imran,PTI,0
+81,Imran,PTI,0
+33,Imran ,PTI,0
+31,Imran,PTI,0
